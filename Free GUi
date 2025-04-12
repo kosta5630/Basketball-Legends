@@ -51,6 +51,6 @@ local Button = MainTab:CreateButton({
     Name = "Auto Guard",
     Callback = function()
         -- The function that takes place when the button is pressed
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/PunchMadeScript/Basketball-Legends/refs/heads/main/Auto%20guard"))();
-    end,
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/kosta5630/Basketball-Legends/refs/heads/main/Ag"))();
+     end,
 })
